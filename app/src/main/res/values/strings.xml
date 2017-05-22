@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RoundedCorners</string>
+
+
+
+    <string name="serviceEnabledKey">serviceEnabledKey</string>
+    <string name="title">RoundedCorners service enabled</string>
+    <string name="summary">It allows to enable or disable the RoundedCorners service.</string>
+
+    <string name="notificationTitle">RoundedCorners</string>
+    <string name="notificationText">Tap to configure.</string>
+</resources>
